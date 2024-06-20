@@ -4,11 +4,11 @@ at Gateway Technical College (instructor Saad Yousuf in Racine, WI)
 for IT-Software Developer program
 
 ## Prompt:
-Create a JavaFX application to accept input from user for Employees table and insert that into the Employees table
+Create a JavaFX application to accept input from user and insert that into the Employees table
 
 ## Features:
 * JavaFX GUI, including UI controls, layout elements
-* database connetion: fetches data from Microsoft Access "Employees" table
+* database connection: fetches data from Microsoft Access "Employees" table
 * accepts user input for character & number fields
 * use embedded SQL to update table
 * display custom-formatted results to console
